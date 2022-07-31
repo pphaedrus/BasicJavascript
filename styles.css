@@ -1,0 +1,30 @@
+
+.car{
+    background-color: yellow;
+    height: 30px;
+    width: 60px;
+    position: absolute;
+}
+
+.person{
+    background-color: aqua;
+    height: 30px;
+    width:30px;
+    position:absolute;
+}
+
+.grid{
+    height: 490px;
+    width: 250px;
+    background-color: red;
+    position:relative;
+    font-size: 100px;
+    text-align: center;
+}
+
+.finishLine{
+    height:10px;
+    width:100px;
+    background-color: green;
+    position: absolute;
+}
